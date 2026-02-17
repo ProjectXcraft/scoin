@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "scoin",
+  "version": "1.0.0",
+  "name": "Scoin",
+  "description": "Adds the S coin currency item.",
+  "authors": [
+    "SwordCraft"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/scoin/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "fr.swordcraft.scoin.ScoinMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "minecraft": "1.20.1",
+    "fabric-api": "*",
+    "java": ">=17"
+  }
+}
