@@ -1,0 +1,2 @@
+# scoin
+Money mod
